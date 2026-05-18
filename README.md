@@ -3,8 +3,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Praveena%20Mandre&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=☁️+AWS+%7C+Kubernetes+%7C+Terraform;🐳+Docker+%7C+ArgoCD+%7C+Jenkins;📊+Prometheus+%7C+Grafana+%7C+Ansible;🚀+Building+Scalable+Cloud+Infrastructure" alt="Typing SVG" /></a>
+
 
 <br/>
 
