@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveena_Mandre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveena-mandre)
 [![GitHub](https://img.shields.io/badge/GitHub-pm--Praveenm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pm-Praveenm)
 [![Email](https://img.shields.io/badge/Email-Praveena.m.mandre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Praveena.m.mandre@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_9590365418-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919590365418)
 
 </div>
 
