@@ -106,6 +106,11 @@ superpower: Turning complex infrastructure into elegant, automated solutions
         <li>🔄 <strong>ArgoCD</strong> for GitOps-based deployments</li>
         <li>📦 <strong>Git/GitHub</strong> version control</li>
       </ul>
+        <p>
+        <a href="https://github.com/pm-Praveenm/Project-Devops-Bookmyshow-praveenm" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>    
       <p>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
