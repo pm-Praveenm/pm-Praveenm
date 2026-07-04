@@ -84,7 +84,13 @@ superpower: Turning complex infrastructure into elegant, automated solutions
         <li>🪣 <strong>S3</strong> for static content delivery</li>
         <li>⚙️ <strong>Terraform</strong> for automated provisioning</li>
       </ul>
-      <p>
+  
+  <p>
+        <a href="https://github.com/pm-Praveenm/3TierArchitecture-App" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>    
+  <p>
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
         <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
