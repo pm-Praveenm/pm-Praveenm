@@ -86,7 +86,7 @@ superpower: Turning complex infrastructure into elegant, automated solutions
       </ul>
   
   <p>
-        <a href="https://github.com/pm-Praveenm/3TierArchitecture-App" target="_blank">
+        <a href="https://github.com/pm-Praveenm/Project-AWS-3TierArchitecture-App" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </p>    
@@ -124,6 +124,11 @@ superpower: Turning complex infrastructure into elegant, automated solutions
         <li>📈 <strong>Grafana</strong> real-time dashboards</li>
         <li>☸️ <strong>Kubernetes</strong> auto-scaling</li>
       </ul>
+        <p>
+        <a href="https://github.com/pm-Praveenm/Devops-project-zomato-praveenm" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p> 
       <p>
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
